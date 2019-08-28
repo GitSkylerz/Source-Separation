@@ -1,0 +1,10 @@
+sr         = 16000
+n_fft      = 1024
+hop_length = 256
+n_src      = 2
+n_mic      = 1
+t_bins     = 8
+f_bins     = int(n_fft / 2) + 1
+epoch      = 10
+batch_size = 100
+early_stop = 2
