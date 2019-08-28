@@ -1,7 +1,7 @@
 <center>
-<img src="./images/architecture.png" width="410" >
+<img src="./images/architecture.png" >
 <br>
-(Panorama image of Mt. Rainer in Washington USA.)
+(Architecture of Convolutional Recurrent Neural Network)
 </center>
 
 # Blind Source Separation
