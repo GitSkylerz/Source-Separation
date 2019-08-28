@@ -1,3 +1,9 @@
+<center>
+<img src="./images/architecture.png" width="410" >
+<br>
+(Panorama image of Mt. Rainer in Washington USA.)
+</center>
+
 # Blind Source Separation
 
 ## Overview
